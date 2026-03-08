@@ -20,14 +20,14 @@ Download the latest build from [Releases](https://github.com/magicisinthehole/xu
 
 ### x86_64 (x64)
 - **AppImage** — Portable, runs on most Linux distributions. Make executable and run.
-- **.deb** — For Debian/Ubuntu. Install with `sudo dpkg -i xune_<version>_amd64.deb && sudo apt-get install -f`
-- **Flatpak** — Install with `flatpak install Xune-<version>-x64.flatpak`
+- **.deb** — For Debian/Ubuntu. Install with `sudo dpkg -i Xune-<version>-Linux-x86_64.deb && sudo apt-get install -f`
+- **Flatpak** — Install with `flatpak install Xune-<version>-Linux-x86_64.flatpak`
 - **Portable tar.gz** — Self-contained, runs from any directory. Data stored alongside the app.
 
 ### ARM64 (aarch64)
 - **AppImage** — Portable, runs on ARM64 Linux distributions. Make executable and run.
-- **.deb** — For Debian/Ubuntu on ARM64. Install with `sudo dpkg -i xune_<version>_arm64.deb && sudo apt-get install -f`
-- **Flatpak** — Install with `flatpak install Xune-<version>-arm64.flatpak`
+- **.deb** — For Debian/Ubuntu on ARM64. Install with `sudo dpkg -i Xune-<version>--Linux-arm64.deb && sudo apt-get install -f`
+- **Flatpak** — Install with `flatpak install Xune-<version>-Linux-arm64.flatpak`
 - **Portable tar.gz** — Self-contained, runs from any directory. Data stored alongside the app.
 
 ### Flatpak Setup
