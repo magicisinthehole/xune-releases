@@ -12,10 +12,6 @@ Download the latest build from [Releases](https://github.com/magicisinthehole/xu
 - **DMG** — Drag to Applications to install.
 - **Portable ZIP** — Self-contained, runs from any directory. Data stored alongside the app.
 
-### Intel (x64)
-- **DMG** — Drag to Applications to install.
-- **Portable ZIP** — Self-contained, runs from any directory. Data stored alongside the app.
-
 ### Data Locations
 - **Installed:** `~/Library/Application Support/xune`
 - **Portable:** `Xune.app/Contents/MacOS/Data/`
