@@ -26,7 +26,7 @@ Download the latest build from [Releases](https://github.com/magicisinthehole/xu
 
 ### ARM64 (aarch64)
 - **AppImage** — Portable, runs on ARM64 Linux distributions. Make executable and run.
-- **.deb** — For Debian/Ubuntu on ARM64. Install with `sudo dpkg -i Xune-<version>--Linux-arm64.deb && sudo apt-get install -f`
+- **.deb** — For Debian/Ubuntu on ARM64. Install with `sudo dpkg -i Xune-<version>-Linux-arm64.deb && sudo apt-get install -f`
 - **Flatpak** — Install with `flatpak install Xune-<version>-Linux-arm64.flatpak`
 - **Portable tar.gz** — Self-contained, runs from any directory. Data stored alongside the app.
 
